@@ -1,0 +1,1 @@
+The Oxford Solid State Basics by Steven H. Simon
