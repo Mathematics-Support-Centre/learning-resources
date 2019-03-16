@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/fields.gif?raw=true "Title")
+![](fields.gif?raw=true "Title")
